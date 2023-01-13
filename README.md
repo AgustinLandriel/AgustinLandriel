@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Agustin Landriel</h1>
-<h3 align="center">Estudiante y desarrollador .NET</h3>
+<h3 align="center">Estudiante de Sistemas y Desarrollador Full Stack</h3>
 
 - 📫 Contacto -> **al.landriel20@gmail.com**
 
